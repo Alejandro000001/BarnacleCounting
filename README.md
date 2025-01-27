@@ -9,3 +9,5 @@ I have included the results from the two testing images: predicted_density_map_u
 That being said, I learned a lot with this task. I did a lot of reasearch not only regarding which model or approach to use at first, but also about the intricacies of the U-Net model itself. I learned about its unique architecture, which includes its contracting and expanding paths, allowing it to capture both low and high-level features. I also learned about how skip connections help preserve spatial information. Overall, this was a great experience. 
 
 If I had more time and, more importantly, more data, I would go back to a CRSNet model as it would be more accurate. 
+
+In order to run the code, you can simply run the jupyter notebook, but you need the necessary images. 
